@@ -1,0 +1,13 @@
+h3 {
+	border: 1px solid grey;
+	border-radius: 3px;
+	padding: 5px 15px;
+}
+
+.hide {
+	display: none;
+}
+
+.show {
+	/*display: block;*/
+}
